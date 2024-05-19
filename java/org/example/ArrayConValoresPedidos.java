@@ -2,9 +2,6 @@
 // Muestra por consola el indice y el valor al que corresponde. Haz dos metodos, uno para rellenar valores
 // y otro para mostrar
 
-// crear el arrary que tenga 10 posiciones
-// pedirle al cliente que llene el array con numeros
-//
 
 package org.example;
 
