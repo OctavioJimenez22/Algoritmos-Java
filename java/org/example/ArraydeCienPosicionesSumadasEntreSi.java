@@ -1,13 +1,6 @@
 // Crear un array de numeros de 100 posiciones, que contendra los numeros del 1 al 100
 //Obten la suma de todos ellos y la media.
 
-// crear el array de 100 posiciones
-// llenarlo con los numeros de 1 al 100
-// sumar todos los numeros que tiene el array y la media
-//mostrar por pantalla la suma y la media
-
-//para halla la media debemos sumar los valores y dividirlos por la cantidad de numeros en el conjunto.
-
 
 package org.example;
 
